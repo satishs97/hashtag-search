@@ -5,7 +5,7 @@ This [demo](https://hashtagsearcher.herokuapp.com/) works well in Google Chrome 
 TODO:
 Solve the issue in other browsers for rendering Embedded Tweets.
 
-##ScreenShots
+## Screen Shots
 ![](s1.png)
 
 
