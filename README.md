@@ -1,10 +1,3 @@
-# react-redux-express-twitter web application
-
-This [demo](https://hashtagsearcher.herokuapp.com/) works well in Google Chrome Version 67.0.3396.99.
-
-TODO:
-Solve the issue in other browsers for rendering Embedded Tweets.
-
 ## Screen Shots
 ![](s1.png)
 
